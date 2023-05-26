@@ -36,7 +36,7 @@ class GUI:
         self.img = None
         self.mesh = None
         self.master = master
-        master.title("Geometria Obliczeniowa - Projekt, Albert Dańko, Jakub Ficek")
+        master.title("Geometria Obliczeniowa - Jakub Ficek")
         master.configure(bg='gray')
 
         self.file_path = ""
